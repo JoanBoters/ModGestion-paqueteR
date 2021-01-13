@@ -9,7 +9,13 @@
 #' @export
 #'
 #' @examples
-#' div(5,3)
+#' div(6,3)
+#'
+#'div(20,10)
+#'
+#'div(2.5,0.5)
+#'
+#'div(1+2,6)
 #'
 #' @seealso \link{mult}
 div=function(a,b){

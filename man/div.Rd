@@ -18,7 +18,13 @@ La división entre a y b
 Esta función devuelve la división de dos números
 }
 \examples{
-div(5,3)
+div(6,3)
+
+div(20,10)
+
+div(2.5,0.5)
+
+div(1+2,6)
 
 }
 \seealso{

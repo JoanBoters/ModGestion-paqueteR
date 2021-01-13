@@ -22,5 +22,5 @@ mult(5,3)
 
 }
 \seealso{
-\link{div}
+\link{div}, \link{suma}
 }

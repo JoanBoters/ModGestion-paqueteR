@@ -11,7 +11,7 @@
 #' @examples
 #' mult(5,3)
 #'
-#' @seealso \link{div}
+#' @seealso \link{div}, \link{suma}
 mult=function(a,b){
   return(a*b)
 }
